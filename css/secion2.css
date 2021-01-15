@@ -1,0 +1,84 @@
+.icon{
+    padding: 10px;
+    font-size: 35px;
+    border-radius: 15px;
+    border-top-left-radius: 
+    font
+    
+}
+
+.blue{
+    
+    color: #4998dc;
+    background-color: #e2f4ff;
+}
+
+.red{
+    color:#d86262;
+    background-color: #fedede;
+}
+
+.yellow{
+    color: #ccbb62;
+    background-color: #fff9da;
+}
+
+
+.header {
+  font-size: 60px;
+  padding: 30px;
+  text-align: center;
+  color: whi;
+  
+}
+
+.card-h5{
+    
+    font-size: 30px;
+    padding : 20px 0px 20px 0px;
+    font-display: block;
+}
+
+
+
+.lead{
+    padding-bottom: 15px;
+    font-size: 15px;
+    display: block;
+    font-weight: 200;
+}
+.row{
+    border: 0px;
+}
+
+.col{
+    
+    border: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 16px 36px;
+}
+.col:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+ 
+
+}
+.container{
+    align-content: center;
+    align-items: center;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    
+    
+}
+
+.center{
+    padding: 2%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: bottom;
+}
