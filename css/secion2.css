@@ -62,8 +62,6 @@
 }
 .col:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
- 
-
 }
 .container{
     align-content: center;
@@ -81,7 +79,11 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-    border-radius: 30px;
+   border-radius: 30px;
+}
+
+button:hover{
+    color: white;
 }
 
 
