@@ -1,0 +1,29 @@
+a{
+/*    color: antiquewhite;*/
+    text-decoration: none;
+    padding: 0px 500px;
+}
+a:link{
+    color: #ffffff;
+    padding: 40px 0px;
+    padding: 50px 0px;
+}
+a:visited{
+    color: #ffffff;
+    padding: 40px 0px;
+}
+a:hover{
+    color: #ffffff;
+    text-shadow: 1px 1px;
+}
+.col-footer{
+    padding: 5px 20px;
+    margin: 0% 2%;
+    width: auto;
+}
+.footer{
+    background-color: #1b2e3d;
+}
+.margin{
+    margin:  40px 0px;;
+}
