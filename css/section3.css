@@ -1,7 +1,12 @@
 .section-3{
-    width: 100%;
-    margin: 5% auto;
-    background-color: #f4f5f7;
+    padding: 10%;
+    background-color: #f6f7f9;
+}
+
+.section-3{
+    padding : 5% ;
+    height: 70%;
+
 }
 
 
@@ -14,9 +19,31 @@
 }
 
 
-.section3-h1{
+
+
+.col img{
+    align-items: center;
+    width: 90%;
+    height: auto;
     
-    font-size: 55px;
+}
+
+.section-3 .col{
+    
+    width: 50%;
+    margin: 0px;
+    transition: 0.3s;
+    box-shadow: 0 0 0 0;
+    
+}
+.section-3 .col:hover {
+  box-shadow: 0 0 0 0;
+}
+
+
+.section-3 h1{
+    
+    font-size: 4vw;
 }
 
 .margin{
@@ -24,7 +51,6 @@
 }
 
 .img{
-  margin: 10% 20%;
   border-radius: 25px;
   background-color: white;
   background-position: left top;
@@ -37,11 +63,6 @@
     margin:  40px 0px;;
 }
 
-.margin-left{
-    
-    margin-left: 10%;
-    padding-left: 40px;
-}
 button{
   
   margin :5px 0px;

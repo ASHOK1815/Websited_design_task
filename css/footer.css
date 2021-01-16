@@ -1,3 +1,11 @@
+footer{
+    margin-top: 10%;
+    height: 5%;
+    width: auto;
+    background-color: 
+}
+
+
 a{
 /*    color: antiquewhite;*/
     text-decoration: none;
@@ -16,11 +24,7 @@ a:hover{
     color: #ffffff;
     text-shadow: 1px 1px;
 }
-.col-footer{
-    padding: 5px 20px;
-    margin: 0% 2%;
-    width: auto;
-}
+
 .footer{
     background-color: #1b2e3d;
 }

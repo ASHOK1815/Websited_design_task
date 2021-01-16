@@ -1,17 +1,22 @@
+.section-5{
+    padding: 10%;
+    background-color: #f6f7f9;
+ 
+}
+
 .rounded-pill{
-background-color: pink;
+    background-color: pink;
     padding: 5% 20%;
-    margin: 30% 0%;
     color: white;
-    
 }
 .button-email{
   
   margin :0px;
+  position: absolute;
   background-color: black; /* Green */
   border: none;
   color: white;
-  padding: 25% 45%;;
+  padding: 20px 35px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -20,7 +25,8 @@ background-color: pink;
 }
 .email-icon{
     color: grey;
-    font-size: 30px;
+    position: relative;
+    font-size: 25px;
     margin: auto;
     padding: 0.9% 5%;
     font-size-adjust: auto;
@@ -30,10 +36,14 @@ background-color: pink;
 .input-group{
     background-color: white;
     border-radius: 30px;
+    text-decoration: none;
+    border-bottom: 0px;
+    outline: none;
+    
 }
 .form-control{
     margin: 0px;
     width: 80%;
-    border-right: 0px;
-    border-left: 0px;
+
+    border: 0px;
 }

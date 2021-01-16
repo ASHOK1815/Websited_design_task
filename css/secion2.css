@@ -1,9 +1,10 @@
+
 .icon{
     padding: 10px;
     font-size: 35px;
     border-radius: 15px;
     border-top-left-radius: 
-    font
+    
     
 }
 
@@ -82,8 +83,9 @@
    border-radius: 30px;
 }
 
-button:hover{
+.button:hover{
     color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
 
