@@ -1,0 +1,33 @@
+footer{
+    margin-top: 10%;
+    height: 5%;
+    width: auto;
+    background-color: 
+}
+
+
+a{
+/*    color: antiquewhite;*/
+    text-decoration: none;
+    padding: 0px 500px;
+}
+a:link{
+    color: #ffffff;
+    padding: 40px 0px;
+    padding: 50px 0px;
+}
+a:visited{
+    color: #ffffff;
+    padding: 40px 0px;
+}
+a:hover{
+    color: #ffffff;
+    text-shadow: 1px 1px;
+}
+
+.footer{
+    background-color: #1b2e3d;
+}
+.margin{
+    margin:  40px 0px;;
+}
